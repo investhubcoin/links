@@ -1,0 +1,10 @@
+{
+    "departament": "links",
+    "employees": [
+        {"icon": ":/icons/synced", "name": "&facebook", "link" : "https://www.facebook.com/investhub.coin "},
+        {"icon": ":/icons/synced", "name": "&vk", "link" : "https://vk.com/investhubcoin"},
+        {"icon": ":/icons/synced", "name": "&telegram", "link" : "https://t.me/joinchat/AAAAAFA0vT1CR52YkXzfQA "},
+        {"icon": ":/icons/synced", "name": "&twitter", "link" : "https://twitter.com/hub_invest"}
+    ],
+    "number" : 4
+}
